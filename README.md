@@ -1,17 +1,16 @@
+
 <h1 align="center">Hi 👋, I'm Ayas Ahmad</h1>
 <h3 align="center">I am an enthusiastic Full-Stack Developer and DSA enthusiast hailing from India.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayasahmad7655" alt="ayasahmad7655" /></a> </p>
-
+<img align="right" alt="Codig" width="400" src="https://img.etimg.com/thumb/msid-84146056,width-1200,height-900,imgsize-638053,resizemode-8/20210706_developer-economy_01.jpg">
 <p align="left"> <a href="https://twitter.com/ayas_ahmad63" target="blank"><img src="https://img.shields.io/twitter/follow/ayas_ahmad63?logo=twitter&style=for-the-badge" alt="ayas_ahmad63" /></a> </p>
 
-- 🔭 I’m currently working on [Dear Sister](DearSister.in)
+- 🔭 I’m currently working on **Dear Sister.in**
 
-- 💬 Ask me about **react,linux**
+- 💬 Ask me about **Full Stack Development.**
 
 - 📫 How to reach me **ayasahmad63@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ph8DHbq2IMRcTJljua2rdb8KqKqcizBB/view?usp=sharing](https://drive.google.com/file/d/1ph8DHbq2IMRcTJljua2rdb8KqKqcizBB/view?usp=sharing)
+- 📄 Here is My Resume [https://drive.google.com/file/d/1ph8DHbq2IMRcTJljua2rdb8KqKqcizBB/view?usp=sharing](https://drive.google.com/file/d/1ph8DHbq2IMRcTJljua2rdb8KqKqcizBB/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
